@@ -1,0 +1,39 @@
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+a:hover {
+    color: red;
+}
+
+@font-face {
+    font-family: "myFirstFont";
+    src: url(sansation_light.woff);
+}
+
+@font-face {
+ font-family: "Open Sans";
+ src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
+
+}
+
+img {
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 25px;
+    box-shadow: 5px 10px;
+}
+
+form {
+    border: 2px solid red;
+    text-align: center;
+}
